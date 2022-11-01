@@ -30,10 +30,11 @@ Orario: Ogni mercoledì, dalle 13.30 alle 17.30
 
 | OTTOBRE | NOVEMBRE | DICEMBRE | GENNAIO |
 |:-------:|:--------:|:--------:|:-------:|
-| 5       | 9        | 14       | 11      |
-| 12      | 16       | 21       |         |
-| 19      | 23       |          |         |
-| 26      | 30       |          |         |
+| 5       | 2        | 14       | 11      |
+| 12      | 9        | 21       |         |
+| 19      | 16       |          |         |
+| 26      | 23       |          |         |
+|         | 30       |          |         |
 
 **Attenzione**: sono possibili variazioni; controllare periodicamente il canale Telegram.
 
